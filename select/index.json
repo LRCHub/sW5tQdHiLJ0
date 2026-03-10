@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ドゥーマー (Preview)",
+  "base_artist": "東京真中",
+  "createdAt": "2026-03-10T19:17:58.551625Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドゥーマー",
+      "artist": "東京真中",
+      "has_synced": true,
+      "path": "select/01_ドゥーマー_東京真中.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "東京真中 - ドゥーマー feat. 重音テト",
+      "artist": "Tokyo Manaka",
+      "has_synced": true,
+      "path": "select/02_東京真中_-_ドゥーマー_feat._重音テト_Tokyo_Manaka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドゥーマー",
+      "artist": "東京真中",
+      "has_synced": false,
+      "path": "select/pl_01_ドゥーマー_東京真中.txt"
+    }
+  ]
+}
